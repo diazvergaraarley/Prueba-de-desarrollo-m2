@@ -292,7 +292,7 @@ height: 90%;
     padding-top: 20px;
 }
 
-/* FOOTER */
+/* FOOTER (modified)*/
 footer {
   background: linear-gradient(#00000099, #000000cc),
   url("/assets/img/hero-.gif") center/cover;
