@@ -82,7 +82,7 @@ nav a:hover {
 .about-us{
   height: 100vh;
   background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.8)),
-  url("/Prueba_de_desarrollo_m-2/assets/img/sax.png") center/cover;
+  url("/assets/img/sax.png") center/cover;
   width: auto;
   display: flex;
   flex-direction: column;
@@ -114,7 +114,7 @@ section {
 .shows {
     min-height: 100vh;
   background: linear-gradient(#00000099, #000000cc),
-  url("/Prueba_de_desarrollo_m-2/assets/img/Nautilus.png") center/cover;
+  url("/assets/img/Nautilus.png") center/cover;
   background-blend-mode: darken;
   display: block;
   padding: 61px 20px;
@@ -184,7 +184,7 @@ section {
 .musicos{
         min-height: 100vh;
   background: linear-gradient(#00000099, #000000cc),
-  url("/Prueba_de_desarrollo_m-2/assets/img/Cuarentena.png") center/cover;
+  url("/assets/img/Cuarentena.png") center/cover;
   background-blend-mode: darken;
   display: block;
   padding: 60px 20px;
@@ -295,7 +295,7 @@ height: 90%;
 /* FOOTER */
 footer {
   background: linear-gradient(#00000099, #000000cc),
-  url("/Prueba_de_desarrollo_m-2/assets/img/hero.gif") center/cover;
+  url("/assets/img/hero.gif") center/cover;
   padding: 30px;
   text-align: center;
   font-size: 1.5rem;
